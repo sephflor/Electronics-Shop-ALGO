@@ -1,1 +1,1 @@
-# Electronics-Shop-ALGO
+# Electronics-Shop-ALGO.This program determines the most expensive combination of one keyboard and one USB drive that a person can buy without exceeding a given budget. It checks all possible pairs, keeps track of the maximum affordable sum, and prints that value, or -1 if no combination is within the budget.
